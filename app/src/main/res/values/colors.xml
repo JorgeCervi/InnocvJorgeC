@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#313636</color>
+    <color name="colorPrimaryLight">#414747</color>
+    <color name="colorPrimaryDark">#02332C</color>
+    <color name="colorAccent2">#F02252</color>
+    <color name="colorAccent3">#009688</color>
+    <color name="colorPrimary2">#008577</color>
+    <color name="colorPrimaryDark2">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="bckActUser">#D6D6D6</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>

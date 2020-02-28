@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InnocvJorgeC</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="birthdate">Nacimiento:</string>
+    <string name="name">Nombre:</string>
+    <string name="id">ID:</string>
+    <string name="id_sample">1234</string>
+    <string name="name_sample">Pedro</string>
+    <string name="birthdate_sample">31-12-2000</string>
+    <string name="btn_añadir">Añadir:</string>
+</resources>

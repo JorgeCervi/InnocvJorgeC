@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="gen_margin">16dp</dimen>
+    <dimen name="four_margin">4dp</dimen>
+    <dimen name="ten_margin">10dp</dimen>
+    <dimen name="data_left">107dp</dimen>
+</resources>
